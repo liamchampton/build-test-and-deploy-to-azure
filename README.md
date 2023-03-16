@@ -5,7 +5,7 @@
 ---
 > **NOTE:** This repository build status will continue to fail as it is an example repository specifically for the blog article mentioned below. This will not affect you if you fork it and set up the pipeline secrets correctly.
 
-The accompanying article for this repository can be found [here](link-to-article)
+The accompanying article for this repository can be found [here](https://aka.ms/liamsblog)
 
 ## Quickstart to run the project **locally**
 ### Prerequisites
